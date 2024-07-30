@@ -67,7 +67,7 @@ RNF3                         | Usabilidade
             Técnica:
         </th>
         <th colspan="2">
-            (x) manual
+            () manual
         </th>
         <th colspan="2">
             (x) automática
@@ -95,7 +95,7 @@ RNF3                         | Usabilidade
             Abordagem do teste
         </th>
         <th colspan="2">
-            Caixa branca (x)
+            Caixa branca ()
         </th>
         <th colspan="2">
             Caixa preta (x)
@@ -106,7 +106,7 @@ RNF3                         | Usabilidade
             Responsável(is)
         </th>
         <th colspan="4">
-            Programador(es) ou equipe de testes
+            Equipe de testes
         </th>
     </tr>
 </table>
@@ -168,7 +168,7 @@ RNF3                         | Usabilidade
             Responsável(is)
         </th>
         <th colspan="4">
-            Programador(es) ou equipe de testes
+            Programador(es) e equipe de testes
         </th>
     </tr>
 </table>
@@ -194,7 +194,7 @@ RNF3                         | Usabilidade
             (x) manual
         </th>
         <th colspan="2">
-            (x) automática
+            () automática
         </th>
     </tr>
     <tr>
@@ -222,7 +222,7 @@ RNF3                         | Usabilidade
             Caixa branca (x)
         </th>
         <th colspan="2">
-            Caixa preta (x)
+            Caixa preta ()
         </th>
     </tr>
     <tr>
@@ -230,7 +230,7 @@ RNF3                         | Usabilidade
             Responsável(is)
         </th>
         <th colspan="4">
-            Programador(es) ou equipe de testes
+            Programador(es)
         </th>
     </tr>
 </table>
